@@ -1,0 +1,12 @@
+C:\Users\24861221\Desktop\Week_8\Week_8\bin\Debug\EmployeeDirectory.mdf
+C:\Users\24861221\Desktop\Week_8\Week_8\bin\Debug\EmployeeDirectory_log.ldf
+C:\Users\24861221\Desktop\Week_8\Week_8\bin\Debug\Week_8.exe.config
+C:\Users\24861221\Desktop\Week_8\Week_8\bin\Debug\Week_8.exe
+C:\Users\24861221\Desktop\Week_8\Week_8\bin\Debug\Week_8.pdb
+C:\Users\24861221\Desktop\Week_8\Week_8\obj\Debug\Week_8.csproj.AssemblyReference.cache
+C:\Users\24861221\Desktop\Week_8\Week_8\obj\Debug\Week_8.DirectoryForm.resources
+C:\Users\24861221\Desktop\Week_8\Week_8\obj\Debug\Week_8.Properties.Resources.resources
+C:\Users\24861221\Desktop\Week_8\Week_8\obj\Debug\Week_8.csproj.GenerateResource.cache
+C:\Users\24861221\Desktop\Week_8\Week_8\obj\Debug\Week_8.csproj.CoreCompileInputs.cache
+C:\Users\24861221\Desktop\Week_8\Week_8\obj\Debug\Week_8.exe
+C:\Users\24861221\Desktop\Week_8\Week_8\obj\Debug\Week_8.pdb
